@@ -1,0 +1,22 @@
+﻿  Map_Tile.cpp
+c:\users\krzysiek\source\repos\projekt_pk4\projekt_pk4\map_tile.cpp(135): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+c:\users\krzysiek\source\repos\projekt_pk4\projekt_pk4\map_tile.cpp(137): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+c:\users\krzysiek\source\repos\projekt_pk4\projekt_pk4\map_tile.cpp(139): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+c:\users\krzysiek\source\repos\projekt_pk4\projekt_pk4\map_tile.cpp(196): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+c:\users\krzysiek\source\repos\projekt_pk4\projekt_pk4\map_tile.cpp(198): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+c:\users\krzysiek\source\repos\projekt_pk4\projekt_pk4\map_tile.cpp(202): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+c:\users\krzysiek\source\repos\projekt_pk4\projekt_pk4\map_tile.cpp(242): warning C4018: ">": niezgodność typu ze znakiem/bez znaku
+c:\users\krzysiek\source\repos\projekt_pk4\projekt_pk4\map_tile.cpp(249): warning C4018: ">": niezgodność typu ze znakiem/bez znaku
+c:\users\krzysiek\source\repos\projekt_pk4\projekt_pk4\map_tile.cpp(255): warning C4018: ">": niezgodność typu ze znakiem/bez znaku
+c:\users\krzysiek\source\repos\projekt_pk4\projekt_pk4\map_tile.cpp(262): warning C4018: ">": niezgodność typu ze znakiem/bez znaku
+c:\users\krzysiek\source\repos\projekt_pk4\projekt_pk4\map_tile.cpp(317): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+c:\users\krzysiek\source\repos\projekt_pk4\projekt_pk4\map_tile.cpp(319): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+c:\users\krzysiek\source\repos\projekt_pk4\projekt_pk4\map_tile.cpp(403): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+c:\users\krzysiek\source\repos\projekt_pk4\projekt_pk4\map_tile.cpp(405): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+  Player.cpp
+  Trwa generowanie kodu
+  4 of 1720 functions ( 0.2%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Zakończono generowanie kodu
+  Projekt_PK4.vcxproj -> C:\Users\Krzysiek\source\repos\Projekt_PK4\Release\Projekt_PK4.exe

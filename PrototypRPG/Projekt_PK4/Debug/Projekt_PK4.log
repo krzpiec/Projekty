@@ -1,0 +1,62 @@
+﻿  AnimationComponent.cpp
+  EditorState.cpp
+c:\users\krzysiek\source\repos\projekt_pk4\projekt_pk4\editorstate.cpp(18): warning C4244: "argument": konwersja z "unsigned int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+c:\users\krzysiek\source\repos\projekt_pk4\projekt_pk4\editorstate.cpp(17): warning C4244: "argument": konwersja z "unsigned int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+  GraphicsSetting.cpp
+  Gui.cpp
+c:\users\krzysiek\source\repos\projekt_pk4\projekt_pk4\gui.cpp(253): warning C4244: "argument": konwersja z "T" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=int
+          ]
+c:\users\krzysiek\source\repos\projekt_pk4\projekt_pk4\gui.cpp(257): warning C4244: "argument": konwersja z "T" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=int
+          ]
+  Entity.cpp
+  Game.cpp
+c:\users\krzysiek\source\repos\projekt_pk4\projekt_pk4\gamestate.h(5): warning C4067: nieoczekiwane tokeny występujące po dyrektywie preprocesora - oczekiwano nowego wiersza
+c:\users\krzysiek\source\repos\projekt_pk4\projekt_pk4\game.cpp(23): warning C4129: "G": nierozpoznany znak sekwencji ucieczki
+  GameState.cpp
+c:\users\krzysiek\source\repos\projekt_pk4\projekt_pk4\gamestate.h(5): warning C4067: nieoczekiwane tokeny występujące po dyrektywie preprocesora - oczekiwano nowego wiersza
+c:\users\krzysiek\source\repos\projekt_pk4\projekt_pk4\gamestate.cpp(24): warning C4244: "argument": konwersja z "unsigned int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+c:\users\krzysiek\source\repos\projekt_pk4\projekt_pk4\gamestate.cpp(23): warning C4244: "argument": konwersja z "unsigned int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+  Hitbox.cpp
+  Main.cpp
+c:\users\krzysiek\source\repos\projekt_pk4\projekt_pk4\gamestate.h(5): warning C4067: nieoczekiwane tokeny występujące po dyrektywie preprocesora - oczekiwano nowego wiersza
+  MainMenuState.cpp
+c:\users\krzysiek\source\repos\projekt_pk4\projekt_pk4\gamestate.h(5): warning C4067: nieoczekiwane tokeny występujące po dyrektywie preprocesora - oczekiwano nowego wiersza
+  Map_Tile.cpp
+  Movement.cpp
+  PasueMenu.cpp
+  Player.cpp
+  SettingState.cpp
+  State.cpp
+  Tile.cpp
+  Generowanie kodu...
+  Projekt_PK4.vcxproj -> C:\Users\Krzysiek\source\repos\Projekt_PK4\Debug\Projekt_PK4.exe

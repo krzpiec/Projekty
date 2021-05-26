@@ -1,0 +1,2 @@
+Kolejnosc odwiedzania miast: 1 - 8 - 5 - 4 - 2 - 3 - 7 - 9 - 1
+Przebyta droga: 366
